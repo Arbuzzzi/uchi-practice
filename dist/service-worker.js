@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.a56b0e09e8dda8af21cb98d901057bdc.js"
+  "precache-manifest.97144e673bd530ab84e9445b44987723.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "uchi.ru"});
