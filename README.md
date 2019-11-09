@@ -1,5 +1,7 @@
 # uchi.ru
 
+Пример: https://arbuzzzi.github.io/uchi-practice/dist
+
 ## Project setup
 ```
 npm install
